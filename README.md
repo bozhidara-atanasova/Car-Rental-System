@@ -5,7 +5,7 @@
 * Позволява да добавяш, редактираш, наемаш и връщаш автомобили.  
 * Данните се пазят в **CSV файл** (`data/cars.csv`) – без външни библиотеки.
 
-##2. Command in the Console
+## 2. Command in the Console
 add    <id> <make> <model> <year> <type>
 edit   <id> поле=стойност [поле=стойност ...]
 remove <id>
